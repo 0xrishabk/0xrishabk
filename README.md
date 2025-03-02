@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently learning Spring Boot
+I'm currently learning Spring Boot
 
 
 # 💻 Tech Stack:
