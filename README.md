@@ -1,6 +1,3 @@
-# TECH NERD
-
-## STACK
 - Go
 - Typescript
 - Rust
