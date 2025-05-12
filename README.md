@@ -1,5 +1,9 @@
-I'm changing my grind straight to Rust, Go and Typescript. For now Golang is what I'm learning & understanding :D.
+# TECH NERD
 
-I'll start working on projects soon related to Rust, Go and TS. 🧑🏻‍💻
+## STACK
+- Go
+- Typescript
+- Rust
+- Java
 
-My private repo will be public soon for showcase.
+Learning everyday something new.
