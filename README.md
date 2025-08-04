@@ -1,6 +1,3 @@
-- Go
-- Typescript
-- Rust
-- Java
+Learning something new everyday.
 
-Learning everyday something new.
+I love computersssssssssssssssssss
