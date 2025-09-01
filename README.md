@@ -1,4 +1,4 @@
-Full-Time Developer
-Part-Time `pacman` ninja 🥷 (*I use arch btw.*)
-***Arch TODAY***
-WORLD TOMMOROW
+- Full-Time Developer
+- Part-Time `pacman` ninja 🥷 (*I use arch btw.*)
+- ***Arch TODAY***
+- WORLD TOMMOROW
