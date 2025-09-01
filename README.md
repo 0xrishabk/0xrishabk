@@ -1,3 +1,4 @@
-Learning something new everyday.
-
-I love computersssssssssssssssssss
+Full-Time Developer
+Part-Time `pacman` ninja 🥷 (*I use arch btw.*)
+***Arch TODAY***
+WORLD TOMMOROW
