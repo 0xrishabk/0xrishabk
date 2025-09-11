@@ -1,4 +1,4 @@
-- Full-Time Developer
+- Learning how to work with those symbols and characters
 - Part-Time `pacman` ninja 🥷 (*I use arch btw.*)
 - ***Arch TODAY***
 - WORLD TOMORROW
